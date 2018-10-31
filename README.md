@@ -1,4 +1,4 @@
-# Grunt + Requirejs
+# Grunt + Requirejs 脚手架工具
 
 全局安装
 > npm install -g gri
